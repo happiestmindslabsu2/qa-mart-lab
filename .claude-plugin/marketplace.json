@@ -8,6 +8,11 @@
       "name": "playwright-qa-toolkit",
       "source": "./playwright-qa-toolkit",
       "description": "A minimal QA toolkit for reviewing Playwright tests and analyzing test failures."
+    },
+    {
+      "name": "qa-mart-testcase-kit",
+      "source": "./qa-mart-testcase-kit",
+      "description": "Manual QA testcase creation with rules, a specialist agent, a workflow skill, and hooks."
     }
   ]
 }
