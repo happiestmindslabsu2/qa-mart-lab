@@ -13,6 +13,11 @@
       "name": "qamart-testing-plugin",
       "source": "./qamart-testing-plugin",
       "description": "QA Mart testing plugin: agents, skills, prompts, hooks and MCP configuration for planning, generating, reviewing and triaging Playwright + TypeScript tests."
+    },
+    {
+      "name": "jc-qa-toolkit",
+      "source": "./jc-qa-toolkit",
+      "description": "QA Mart testing toolkit: failure analysis and coupon boundary skills, test reviewer and explorer agents, safety and lint hooks, and Playwright + QA Mart MCP servers."
     }
   ]
 }
